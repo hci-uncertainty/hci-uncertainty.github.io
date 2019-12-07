@@ -25,7 +25,25 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Organizers
+[Robert Soden](http://robertsoden.io/)
+Columbia University
+
+[Laura Devendorf](https://www.colorado.edu/cmci/people/information-science/laura-devendorf)
+University of Colorado Boulder
+
+[Richmond Wong](https://people.ischool.berkeley.edu/~richmond/)
+University of California Berkeley
+
+[Lydia Chilton](http://www.cs.columbia.edu/~chilton/)
+Columbia University
+
+[Ann Light](http://www.sussex.ac.uk/profiles/29619)
+University of Sussex
+
+[Yoko Akama](http://desiap.org/)
+RMIT University 
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hci-uncertainty/hci-uncertainty.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
