@@ -5,27 +5,9 @@ Outcomes of the workshop will include documentation of exercises designed to evo
 
 ![CHI 2020](https://uiuxtrend.com/wp-content/uploads/CHI-2020-min.jpg)
 
-### Markdown
+### How to apply
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-```
+Coming soon!
 
 
 ### Organizers
