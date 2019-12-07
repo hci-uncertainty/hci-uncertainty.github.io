@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hci-uncertainty/hci-uncertainty.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Uncertainty is a prevalent characteristic of contemporary life, and a central challenge of HCI.
+During the workshop, we won’t seek to “solve” uncertainty but rather expand the ways in which we think about and navigate it. In doing so, we will experiment with and contribute to new practices, methods, and concepts for embracing uncertainty. Outcomes of the workshop will include documentation of exercises designed to evoke uncertainty in participants, concept mappings, and a collection of short essays written and refined by participants.
 
 ### Markdown
 
