@@ -5,16 +5,16 @@ During the workshop, we won’t seek to “solve” uncertainty but rather expan
 Outcomes of the workshop will include documentation of exercises designed to evoke uncertainty in participants, concept mappings, and a collection of short essays written and refined by participants.
 
 ### Workshop Activities
-#### Experiencing/Feeling Uncertainty Exercise:
+##### Experiencing/Feeling Uncertainty Exercise:
 The day will begin with a design activity facilitated by the Superflux Instant Archetypes Tarot Card Deck. This sensitizing activities will scaffold an opening discussion around the broader connections between design work and broader cultural narratives around uncertainty--shared values in big data and astrology, for instance---that will inspire conversations/debates for the rest of the day.  
 
-####  Concept Mapping Exercises:
+#####  Concept Mapping Exercises:
 In an effort to organize the discussion, and produce a set of conceptual resources for participants to leave with at the end of the day, all activities will be organized in parallel with the creation and update of an ongoing concept map. This physical paper-based 2D  “map” will be created on top of a large table, and aims to establish a terrain of terms, methods, practices, and example projects that emerge. Entries to the map will be structured through the use of color and prompts to provide coherence to the format as it develops. It will take shape, morph, and grow more detailed throughout the day. 
 
-####  Keyword Panels:
+#####  Keyword Panels:
 Drawing on submissions from participants and organizers, two “keyword” panels will feature presentations on concepts related to uncertainty. Keywords, in the framing of Raymond Williams, aren’t strict definitions but rather a mode of analysis that seeks to engage in a productive fashion with complex, contested, or multiple meanings of terms with significant social currency. Each panel will feature several short presentations from participants as well as a discussant, leaving ample time for discussion at the end. These panels will further enrich participants’ conception of the range of ways that uncertainty intersects with HCI research and practice.
 
-#### Documentation Sprint:
+##### Documentation Sprint:
 Toward the close of the workshop, participants will collaborate to document the activities of the day and outcomes of the experiencing/feeling exercises, keyword panels, and concept mapping. Documentation methods will include: note-taking, sketching, photography, and zine production. Craft materials and other supplies will be provided by the organizers.
 
 ### Call for Participation
