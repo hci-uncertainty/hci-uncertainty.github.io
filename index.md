@@ -34,23 +34,17 @@ The workshop will take place as part of the ACM CHI Conference on Human Factors 
 More information about this workshop can be found at: [https://hci-uncertainty.github.com](https://hci-uncertainty.github.com).  Please email any questions to: [hci.uncertainty@gmail.com](hci.uncertainty@gmail.com). 
 
 ### Organizers
-[Robert Soden](http://robertsoden.io/)
-Columbia University
+[Robert Soden](http://robertsoden.io/) is a Postdoctoral Research Scientist in Computer Science at Columbia University working in the areas of crisis informatics, human-centered computing (HCC), and science and technology studies (STS). His research examines the ways that the technologies that inform our understanding of environmental challenges shape societal responses to disasters and climate change. Robert has previously organized workshops at CHI and CSCW on the use of speculative design to anticipate negative or unanticipated effects of technology and the role of history as a method and resource in HCI research and design practice.
 
-[Laura Devendorf](https://www.colorado.edu/cmci/people/information-science/laura-devendorf)
-University of Colorado Boulder
+[Laura Devendorf](https://www.colorado.edu/cmci/people/information-science/laura-devendorf) designs, develops and studies technologies that destabilize practice in order to prompt creative, thoughtful, and attentive engagements with the everyday. She is an assistant professor of Information Science and an ATLAS Institute fellow at the University of Colorado, Boulder where she directs the Unstable Design Lab. She has organized CHI and CSCW workshops on subjects of "Disruptive Improvisation” tactics for design, broader approaches to designing for care, and research through design.
 
-[Richmond Wong](https://people.ischool.berkeley.edu/~richmond/)
-University of California Berkeley
+[Richmond Wong](https://people.ischool.berkeley.edu/~richmond/) studies how technology designers address values and ethics issues in their professional practices, and how design methods can aid in their work. He is a PhD candidate in the School of Information at the University of California Berkeley, where he draws on approaches from critical and speculative design, values in design, and STS. Richmond has previously organized workshops at DIS and CSCW on interrogating and imagining the potential role of bodily sensors in everyday life, and on utilizing design approaches to address privacy in emerging technologies.
 
-[Lydia Chilton](http://www.cs.columbia.edu/~chilton/)
-Columbia University
+[Lydia Chilton](http://www.cs.columbia.edu/~chilton/) is an Assistant Professor in the Computer Science Department at Columbia University. She is a pioneer in crowdsourcing complex tasks on Mechanical Turk. Her current work is in computational design - coordinating people and computers to complete complex and creative tasks that neither computers or individuals can do alone. This includes conveying messages implicitly through text and images, translating and adapting research and ideas to new areas, and finding actionable insights from data.
 
-[Ann Light](http://www.sussex.ac.uk/profiles/29619)
-University of Sussex
+[Ann Light](http://www.sussex.ac.uk/profiles/29619) background in drama, human-computer interaction and design gives her cross-disciplinary insight into how uncertainty is understood. She has explored the entangling of social and digital for more than 20 years as a design researcher, while her own practice as a participatory designer finds expression in creating and running workshops that explore futures collaboratively to answer questions about how we might dwell together as life’s certainties are destabilised.  She is Professor of Design at the University of Sussex and at Malmo University. 
 
-[Yoko Akama](http://desiap.org/)
-RMIT University 
+[Yoko Akama](http://desiap.org/)is Associate Professor in the School of Design, RMIT University, Naarm (Melbourne), Australia. Her practice is shaped by various Japanese philosophies of Ma (between-ness) and Mushin (mindfulness), to consider how plural futures can be designed together. She is a recipient of several national and international awards for collaborative work with self-determining Indigenous nations and regional communities preparing for disaster. Current works include a co-authored book on Uncertainty and Possibility (2018) by Bloomsbury, and co-leading the Designing Social Innovation in Asia-Pacific network (http://desiap.org/).
 
 ![CHI 2020](https://uiuxtrend.com/wp-content/uploads/CHI-2020-min.jpg)
 
