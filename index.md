@@ -1,10 +1,8 @@
 Uncertainty is a prevalent characteristic of contemporary life, and a central challenge of HCI.
+
 During the workshop, we won’t seek to “solve” uncertainty but rather expand the ways in which we think about and navigate it. We will explore new practices, methods, and concepts for embracing uncertainty. 
 
 Outcomes of the workshop will include documentation of exercises designed to evoke uncertainty in participants, concept mappings, and a collection of short essays written and refined by participants.
-
-![CHI 2020](https://uiuxtrend.com/wp-content/uploads/CHI-2020-min.jpg)
-
 
 ### Workshop Activities
 #### Experiencing/Feeling Uncertainty Exercise:
@@ -34,7 +32,6 @@ To apply, please send a 4-page position paper to hciuncertainty@gmail.com before
 The workshop will take place as part of the ACM CHI Conference on Human Factors in Computing Systems in Honolulu, Hawaii during April 2020. More information about the conference is here: [https://chi2020.acm.org](https://chi2020.acm.org). At least one author of each accepted position paper will be required to register for the workshop and at least one day of the conference.
 More information about this workshop can be found at: [https://hci-uncertainty.github.com](https://hci-uncertainty.github.com).  Please email any questions to: [hci.uncertainty@gmail.com](hci.uncertainty@gmail.com). 
 
-
 ### Organizers
 [Robert Soden](http://robertsoden.io/)
 Columbia University
@@ -54,4 +51,5 @@ University of Sussex
 [Yoko Akama](http://desiap.org/)
 RMIT University 
 
+![CHI 2020](https://uiuxtrend.com/wp-content/uploads/CHI-2020-min.jpg)
 
