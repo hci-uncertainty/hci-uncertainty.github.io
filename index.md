@@ -1,10 +1,11 @@
-Uncertainty is a prevalent characteristic of contemporary life, and a central challenge of HCI.
+### Overview
 
-During the workshop, we won’t seek to “solve” uncertainty but rather expand the ways in which we think about and navigate it. We will explore new practices, methods, and concepts for embracing uncertainty. 
+Uncertainty is prevalent characteristic of contemporary life, and a central challenge of HCI. This one-day workshop will explore how HCI has and might continue to engage uncertainty as a generative feature in design, as opposed to a force to mitigate and control. We hope to convene researchers from broad ranging areas to explore the many ways in which uncertainty appears in our research and the different types of responses that HCI has to offer. There is an incredible variety of conceptual formulations of uncertainty and related ideas like risk, ambiguity, and suspense that raise both difficult challenges as well as significant opportunities for creative engagement with societal challenges. During the workshop, we won’t seek to “solve” uncertainty but rather expand the ways in which we think about and navigate it. In doing so, we will experiment with and contribute to new practices, methods, and concepts for embracing uncertainty. Outcomes of the workshop will include documentation of exercises designed to evoke uncertainty in participants, concept mappings, and a collection of short essays written and refined by participants.
 
-Outcomes of the workshop will include documentation of exercises designed to evoke uncertainty in participants, concept mappings, and a collection of short essays written and refined by participants.
+Over the course of the day, participants will collectively work to map the conceptual terrain of uncertainty and how it is evoked and understood within various domains of CHI (e.g. design, existential HCI, crisis informatics, games, machine learning, etc.). In doing so, we will create and collaboratively document a richer conceptual and methodological toolbox for HCI scholars to deploy when engaging uncertainty – working across HCI’s wide range of domains, methods, and communities to give rise to a broader set of methods and frameworks that can embrace the complexity of the wicked social, political, and environmental challenges currently facing HCI.  
 
-### Workshop Activities
+
+###  Activities
 ##### Experiencing/Feeling Uncertainty Exercise:
 The day will begin with a design activity facilitated by the Superflux Instant Archetypes Tarot Card Deck. This sensitizing activities will scaffold an opening discussion around the broader connections between design work and broader cultural narratives around uncertainty--shared values in big data and astrology, for instance---that will inspire conversations/debates for the rest of the day.  
 
