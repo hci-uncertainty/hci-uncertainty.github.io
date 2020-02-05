@@ -19,8 +19,6 @@ Drawing on submissions from participants and organizers, two “keyword” panel
 Toward the close of the workshop, participants will collaborate to document the activities of the day and outcomes of the experiencing/feeling exercises, keyword panels, and concept mapping. Documentation methods will include: note-taking, sketching, photography, and zine production. Craft materials and other supplies will be provided by the organizers.
 
 ### Call for Participation
-
-Call For Participation
 This one-day workshop aims to convene HCI researchers working in a wide array of domains including games, sustainable HCI, social justice, machine learning, and others for an experiential and conceptual encounter with uncertainty. 
 
 To apply, please send a 4-page position paper to hciuncertainty@gmail.com before February 12th 2020. Position papers should be the ACM Extended Abstract format and take one of the following forms: 
